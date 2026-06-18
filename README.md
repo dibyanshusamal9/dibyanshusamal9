@@ -9,6 +9,7 @@
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
 | [🛡️ Sentinel Risk Engine](https://github.com/dibyanshusamal9/Sentinel_Risk_Engine) | Real-time transaction authorization platform with Explainable AI (XAI) and instant overrides | Python · Streamlit · XGBoost · YAML |
+| [📈 AssetX](https://github.com/dibyanshusamal9/assetx) | Full-stack investment portfolio dashboard with real-time valuation and a context-aware AI financial advisor | React · TanStack · TypeScript · Supabase · Gemini API |
 | ⚕️ Medical CV Pipeline | Deep learning computer vision pipeline using Extreme Learning Machines (ELM), strictly validated using external datasets | Python · Google Colab · NumPy |
 
 <br>
@@ -29,6 +30,7 @@
 
 **Frontend & UI**<br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
